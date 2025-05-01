@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/BuddiesD"><img src="https://img.shields.io/github/followers/BuddiesD?label=GitHub%20Followers&style=social" alt="GitHub Followers"></a>
-  <a href="mailto:dev@buddies-dev.de"><img src="https://img.shields.io/badge/E-Mail-kontaktieren-blue?logo=gmail"></a>
 </p>
 
 ---
