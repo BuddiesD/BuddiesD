@@ -7,29 +7,29 @@
 
 ---
 
-### 🚀 Über mich
+### Über mich
 
-- 💻 Ich arbeite hauptsächlich mit **PowerShell**, **Python**, **JavaScript**, **TypeScript** und meiner Lieblingssprache **SQL**
-- 🛠️ Mein Fokus liegt auf der Entwicklung von Tools zur Automatisierung und Prozessoptimierung
-- 🧠 Aktuelle Schwerpunkte: **n8n-basierte Workflows & Nodes**, **Discord Bots**, **strukturierte Datenverarbeitung mit SQL**
-- 🎨 Ich lege großen Wert auf sauberen Code und optisch ansprechende Interfaces
+- Ich arbeite hauptsächlich mit **PowerShell**, **Python**, **JavaScript**, **TypeScript** und meiner Lieblingssprache **SQL**
+- Mein Fokus liegt auf der Entwicklung von Tools zur Automatisierung und Prozessoptimierung
+- Aktuelle Schwerpunkte: **n8n-basierte Workflows & Nodes**, **Discord Bots**, **strukturierte Datenverarbeitung mit SQL**
+- Ich lege großen Wert auf sauberen Code und optisch ansprechende Interfaces
 
 ---
 
 ### 📂 Projekte & Arbeiten
 
-- 🔧 **Automatische Inventarisierung** für Clients & Server in Verbindung mit **Snipe-IT**
-- 🤖 Entwicklung mehrerer **Discord Bots**
-- 🌐 Erstellung von **Webseiten** mit HTML, CSS, JavaScript und PHP
-- 🧾 Eigenes **digitales Berichtsheft** mit Webfrontend, Datenbank und Signaturfunktion
+- **Automatische Inventarisierung** für Clients & Server in Verbindung mit **Snipe-IT**
+- Entwicklung mehrerer **Discord Bots**
+- Erstellung von **Webseiten** mit HTML, CSS, JavaScript und PHP
+- Eigenes **digitales Berichtsheft** mit Webfrontend, Datenbank und Signaturfunktion
 
 ---
 
-### 🧰 Tech-Stack
+### Tech-Stack
 
 ```text
-💻 Betriebssysteme: Windows, Linux (Debian, Arch)
-📦 Backend: Python, PowerShell, Node.js, Flask
-🗄️ Datenbanken: PostgreSQL, MySQL/MariaDB
-🌐 Webentwicklung: HTML, CSS, JavaScript, PHP
-🔧 Tools: n8n, Chocolatey, Git, Docker, uvm.
+Betriebssysteme: Windows, Linux (Debian, Arch)
+Backend: Python, PowerShell, Node.js, Flask
+Datenbanken: PostgreSQL, MySQL/MariaDB
+Webentwicklung: HTML, CSS, JavaScript, PHP
+Tools: n8n, Chocolatey, Git, Docker, uvm.
