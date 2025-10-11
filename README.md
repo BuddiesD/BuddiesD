@@ -4,8 +4,16 @@
 <p align="center">
   <a href="https://github.com/BuddiesD"><img src="https://img.shields.io/github/followers/BuddiesD?label=GitHub%20Followers&style=social" alt="GitHub Followers"></a>
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BuddiesD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BuddiesD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
----
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BuddiesD.BuddiesD&"  />
+</div>
 
 ### Über mich
 
