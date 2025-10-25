@@ -20,7 +20,6 @@
 - Ich arbeite hauptsächlich mit **PowerShell**, **Python**, **JavaScript**, **TypeScript** und meiner Lieblingssprache **SQL**
 - Mein Fokus liegt auf der Entwicklung von Tools zur Automatisierung und Prozessoptimierung
 - Aktuelle Schwerpunkte: **n8n-basierte Workflows & Nodes**, **Discord Bots**, **strukturierte Datenverarbeitung mit SQL**
-- Ich lege großen Wert auf sauberen Code und optisch ansprechende Interfaces
 
 ---
 
