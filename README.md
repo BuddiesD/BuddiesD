@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BuddiesD</h1>
-<h3 align="center">IT Systems Integration Apprentice with a passion for automation and development (Graduation in 2025)</h3>
+<h3 align="center">IT Systems Integration Specialist with a passion for automation and development</h3>
 
 <p align="center">
   <a href="https://github.com/BuddiesD"><img src="https://img.shields.io/github/followers/BuddiesD?label=GitHub%20Followers&style=social" alt="GitHub Followers"></a>
