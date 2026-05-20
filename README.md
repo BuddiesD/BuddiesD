@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BuddiesD</h1>
+<h1 align="center">Hi 👋, I'm Buddies</h1>
 <h3 align="center">IT Systems Integration Specialist with a passion for automation and development</h3>
 
 <p align="center">
